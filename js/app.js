@@ -33,7 +33,7 @@ $stateProvider
 })
 
 
-live
+
 
 $urlRouterProvider
 .otherwise("/")
